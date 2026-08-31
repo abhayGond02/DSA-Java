@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayGond02/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/abhayGond02/DSA-Java/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/abhayGond02/DSA-Java/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
