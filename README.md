@@ -19,8 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/abhayGond02/DSA-Java/tree/master/0152-maximum-product-subarray) |
+| [1991-find-the-middle-index-in-array](https://github.com/abhayGond02/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/abhayGond02/DSA-Java/tree/master/0152-maximum-product-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/abhayGond02/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
