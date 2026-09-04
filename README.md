@@ -65,6 +65,35 @@ A collection of LeetCode solutions implemented in **Java** to prepare for coding
 | 1991 | [Find the Middle Index in Array](./1991-find-the-middle-index-in-array) | Java | $O(N)$ | $O(1)$ | [Code](./1991-find-the-middle-index-in-array) |
 | 2389 | [Longest Subsequence With Limited Sum](./2389-longest-subsequence-with-limited-sum) | Java | $O(N \log N)$ | $O(1)$ | [Code](./2389-longest-subsequence-with-limited-sum) |
 
+# 🧩 DSA-Java
+
+A collection of LeetCode solutions implemented in **Java** to prepare for coding interviews and master data structures and algorithms. Automated using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+---
+
+### 📊 GitHub Activity & Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhayGond02&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### 📚 Solved Problems
+
+| # | Problem Title | Language | Time Complexity | Space Complexity | Solution Link |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 0003 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java | $O(N)$ | $O(N)$ | [Code](./0003-longest-substring-without-repeating-characters) |
+| 0152 | [Maximum Product Subarray](./0152-maximum-product-subarray) | Java | $O(N)$ | $O(1)$ | [Code](./0152-maximum-product-subarray) |
+| 1991 | [Find the Middle Index in Array](./1991-find-the-middle-index-in-array) | Java | $O(N)$ | $O(1)$ | [Code](./1991-find-the-middle-index-in-array) |
+| 2389 | [Longest Subsequence With Limited Sum](./2389-longest-subsequence-with-limited-sum) | Java | $O(N \log N)$ | $O(1)$ | [Code](./2389-longest-subsequence-with-limited-sum) |
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Language:** Java ☕
+- **Automation:** LeetHub v2 🚀
+- **Platform:** LeetCode 💡
+
 ---
 
 ### 🛠️ Tech Stack & Tools
