@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/abhayGond02/DSA-Java/tree/master/0152-maximum-product-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/abhayGond02/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/abhayGond02/DSA-Java/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/abhayGond02/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/abhayGond02/DSA-Java/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Binary Search
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/abhayGond02/DSA-Java/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Greedy
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/abhayGond02/DSA-Java/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Sorting
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/abhayGond02/DSA-Java/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
